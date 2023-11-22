@@ -1,5 +1,4 @@
- <style>
-		/*header style*/
+/*header style*/
 header {
    text-align: center; 
    padding: 20px;
@@ -10,23 +9,6 @@ nav {
    word-spacing: 30px;
    Padding: 10px;
 }
-
-/*navigation bar style*/
-nav {
-   text-align: center;
-   word-spacing: 30px;
-   padding: 10px;
-   background-color: #f5f5dc
-   font-family: Helvetica;
-   
-}
-/*navigation bar button style*/
-nav a {
-   color: #000000;
-   text-decoration: none;
-   font-size: larger;
-}
-		
 /*creating the two-column layout*/
 *{
    box-sizing: border-box;
@@ -53,4 +35,19 @@ nav a {
 .profile h1 {
    text-align: center;
 }
-	</style>
+
+/*navigation bar style*/
+nav {
+   text-align: center;
+   word-spacing: 30px;
+   padding: 10px;
+   background-color: #f5f5dc
+   font-family: Helvetica;
+   
+}
+/*navigation bar button style*/
+nav a {
+   color: #000000;
+   text-decoration: none;
+   font-size: larger;
+}
