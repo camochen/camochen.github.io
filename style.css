@@ -46,10 +46,3 @@ a:hover {
   padding: 10px;
   border: 1px solid #fff;
 }
-
-@media only screen and (max-device-width: 1000px) {
-
-	.container { 
-		width: 100%:
-	}
-}
