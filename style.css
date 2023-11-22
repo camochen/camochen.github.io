@@ -21,11 +21,12 @@ a:hover {
   text-align: center;
 }
 .nav {
-  display: block;
   text-align: center;
-  background: red;
+  background: #465693;
   font-size: 20px;
   padding: 5px;
+  list-style: none;
+  border: 1px solid #fff;
 }
 .content {
   margin: auto;
